@@ -1,3 +1,4 @@
+package OOPS;
 import java.util.*;
 public class OOPSinheritance{
     public static void main(String[] args) {
